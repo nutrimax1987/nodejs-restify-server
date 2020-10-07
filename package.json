@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-restify-server-api",
+  "version": "1.0.0",
+  "description": "nodejs restify server-api",
+  "main": "index.js",
+  "repository": "https://github.com/nutrimax1987/nodejs-restify-server-api.git",
+  "author": "Maxim Livshitz",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  }
+}
