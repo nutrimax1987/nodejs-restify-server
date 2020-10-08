@@ -1,2 +1,2 @@
-# nodejs-restify-server-api
-nodejs-restify-server-api
+# nodejs-restify-server
+nodejs-restify-server
